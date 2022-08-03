@@ -1,0 +1,11 @@
+C:\Users\posy2\Desktop\ООП\Курсач\LibraryDB\LibraryDB\bin\Debug\LibraryDB.exe.config
+C:\Users\posy2\Desktop\ООП\Курсач\LibraryDB\LibraryDB\bin\Debug\LibraryDB.exe
+C:\Users\posy2\Desktop\ООП\Курсач\LibraryDB\LibraryDB\bin\Debug\LibraryDB.pdb
+C:\Users\posy2\Desktop\ООП\Курсач\LibraryDB\LibraryDB\obj\Debug\LibraryDB.csprojAssemblyReference.cache
+C:\Users\posy2\Desktop\ООП\Курсач\LibraryDB\LibraryDB\obj\Debug\LibraryDB.MainForm.resources
+C:\Users\posy2\Desktop\ООП\Курсач\LibraryDB\LibraryDB\obj\Debug\LibraryDB.Properties.Resources.resources
+C:\Users\posy2\Desktop\ООП\Курсач\LibraryDB\LibraryDB\obj\Debug\LibraryDB.csproj.GenerateResource.cache
+C:\Users\posy2\Desktop\ООП\Курсач\LibraryDB\LibraryDB\obj\Debug\LibraryDB.csproj.CoreCompileInputs.cache
+C:\Users\posy2\Desktop\ООП\Курсач\LibraryDB\LibraryDB\obj\Debug\LibraryDB.exe
+C:\Users\posy2\Desktop\ООП\Курсач\LibraryDB\LibraryDB\obj\Debug\LibraryDB.pdb
+C:\Users\posy2\Desktop\ООП\Курсач\LibraryDB\LibraryDB\obj\Debug\LibraryDB.AddandDelete.resources
